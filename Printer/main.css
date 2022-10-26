@@ -1,0 +1,11 @@
+body {
+    background-color: aliceblue ;
+}
+
+input {
+    margin-bottom: 5px;
+}
+
+input, textarea {
+    display: block;
+}
